@@ -1,0 +1,21 @@
+body {
+    font-size: 20px;
+
+}
+h2 {
+    font-size: 25px;
+    color: #00bf00;
+    font-weight: bold;
+    font-family: Arial;
+}
+ul {
+    line-height: 1.6;
+}
+.snoska {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder
+}
+.table_racion{
+    border: 1px solid wheat;
+}
